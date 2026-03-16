@@ -8,7 +8,7 @@ This project demonstrates an end-to-end data engineering pipeline on Azure that 
 The pipeline ingests raw data, transforms it using PySpark in Azure Databricks, and produces analytics-ready datasets that are visualized in Power BI dashboards.
 
 ## Architecture
-![Architecture](architecture/architecture_diagram.png)
+Architecture Diagram.png
 
 Tech Stack
 
