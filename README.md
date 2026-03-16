@@ -11,7 +11,7 @@ The pipeline ingests raw data, transforms it using PySpark in Azure Databricks, 
 Architecture Diagram.png
 
 
-##Tech Stack
+## Tech Stack
 
 	•	Azure Data Factory – Pipeline orchestration and ingestion
   
