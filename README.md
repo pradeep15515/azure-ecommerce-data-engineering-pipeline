@@ -9,9 +9,9 @@ The pipeline ingests raw data, transforms it using PySpark in Azure Databricks, 
 
 ## Architecture
 Architecture Diagram.png
-https://github.com/pradeep15515/azure-ecommerce-data-engineering-pipeline/blob/main/Architecture/Architecture%20Diagram.png?raw=true
 
-Tech Stack
+
+##Tech Stack
 
 	•	Azure Data Factory – Pipeline orchestration and ingestion
   
@@ -23,7 +23,7 @@ Tech Stack
   
 	•	Power BI – Data visualization and dashboard creation
 
-  Data Pipeline Flow
+ ## Data Pipeline Flow
 
 The pipeline processes data using the Medallion Architecture.
 
